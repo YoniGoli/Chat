@@ -3,6 +3,8 @@
 ## Chat with your favorite bot, anytime you want!
 This project simulates a real bot server that answers predefined queries.
 
+![Flow](https://github.com/YoniGoli/Chat/blob/main/assets/screenshot.png?raw=true)
+
 ### Tech Stack
 
 - Kotlin Coroutines & Flow
@@ -22,7 +24,7 @@ https://developer.android.com/topic/architecture
 ### Package By Feature
 Each feature’s architecture has three layers: a data layer, a domain layer and a UI layer.
 
-![Flow](https://github.com/YoniGoli/MySportFeed/blob/main/assets/architectureDiagarm.png?raw=true)
+![Flow](https://github.com/YoniGoli/Chat/blob/main/assets/architectureDiagarm.png?raw=true)
 
 The architecture follows a reactive programming model with the unidirectional data flow. With the data layer at the bottom, the key concepts are:
 
