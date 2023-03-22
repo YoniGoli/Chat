@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="chat_screen_fragment_label">Chat Screen</string>
+    <string name="bot_is_typing">Typing...</string>
+</resources>

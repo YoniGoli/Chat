@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Chat" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/light_primary</item>
+        <item name="colorSecondary">@color/light_secondary</item>
+        <item name="colorSecondaryVariant">@color/light_color_accent</item>
+        <item name="colorAccent">@color/light_color_accent</item>
+        <item name="android:textColor">@color/light_text_color</item>
+    </style>
+
+    <style name="Theme.Chat" parent="Base.Theme.Chat" />
+
+</resources>

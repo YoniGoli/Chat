@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_primary">#0E648C</color>
+    <color name="light_secondary">#FFFBEB</color>
+    <color name="light_colorSecondaryVariant">#FFE7CC</color>
+    <color name="light_color_accent">#F8CBA6</color>
+    <color name="light_color_accent_light">#F8CBA6</color>
+    <color name="light_text_color">#5E5C5C</color>
+
+    <color name="dark_primary">#37306B</color>
+    <color name="dark_secondary">#66347F</color>
+    <color name="dark_colorSecondaryVariant">#9E4784</color>
+    <color name="dark_color_accent">#D27685</color>
+    <color name="dark_color_accent_light">#C3F48D9E</color>
+    <color name="dark_text_color">#F1F1F1</color>
+</resources>
