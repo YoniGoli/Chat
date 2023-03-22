@@ -2,7 +2,6 @@ package com.yoni.chat.server
 
 import com.yoni.chat.server.dto.ServerMessage
 import com.yoni.chat.server.dto.WaitingFor
-import com.yoni.chat.server.model.ChatStep
 import com.yoni.chat.server.reply.IReplyToUserMessage
 
 internal data class SessionState(

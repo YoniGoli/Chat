@@ -3,10 +3,6 @@ package com.yoni.chat.server
 import com.squareup.moshi.JsonAdapter
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
-
-import com.yoni.chat.app.features.chatscreen.data.dto.UserMessageJsonAdapter
-import com.yoni.chat.server.dto.ServerMessage
-import com.yoni.chat.server.dto.ServerMessageJsonAdapter
 import com.yoni.chat.server.dto.ServerMessagesResponse
 import com.yoni.chat.server.dto.UserMessage
 import kotlinx.coroutines.GlobalScope

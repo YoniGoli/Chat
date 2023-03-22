@@ -1,11 +1,9 @@
 package com.yoni.chat.server.reply
 
 import com.yoni.chat.server.SessionState
-import com.yoni.chat.server.dto.UserMessage
 import com.yoni.chat.server.dto.ServerMessage
+import com.yoni.chat.server.dto.UserMessage
 import com.yoni.chat.server.dto.WaitingFor
-import com.yoni.chat.server.model.ChatStep
-import java.util.UUID
 
 internal object PhoneNumberReply : IReplyToUserMessage {
     override fun getResponse(message: UserMessage): SessionState {

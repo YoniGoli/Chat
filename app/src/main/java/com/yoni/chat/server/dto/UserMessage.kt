@@ -6,7 +6,6 @@ import com.squareup.moshi.JsonClass
 data class UserMessage(
     val sessionId: String?,
     val message: String,
-//    val type: MessageInputType,
 )
 
 sealed class MessageInputType {
