@@ -14,6 +14,7 @@ This project simulates a real bot server that answers predefined queries.
 
 ## Architecture in High-Level
 The app's entry point is the MainActivity. This Activity contains the NavController that allows the user to navigate the application on the Navigation Graph. In addition, there is a main fragment 'ChatScreenFragment'. The project is aligned with the Android best practice architecture guideline.
+
 **It's important to note that the server functions like a real server and runs locally on the device of the user under port 5433.**
 
 https://developer.android.com/topic/architecture
