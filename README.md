@@ -3,7 +3,7 @@
 ## Chat with your favorite bot, anytime you want!
 This project simulates a real bot server that answers predefined queries.
 
-![Flow](https://github.com/YoniGoli/Chat/blob/main/assets/screenshot.png?raw=true)
+![Flow](https://github.com/YoniGoli/Chat/blob/main/assets/screenshot.gif?raw=true)
 
 ### Tech Stack
 
